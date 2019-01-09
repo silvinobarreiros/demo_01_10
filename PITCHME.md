@@ -1,4 +1,5 @@
-# Bank Platform
+# Waves + Current
+Waves don't die. Let me crash here for the moment
 
 ---?image=assets/gifs/charlie.gif
 ---?image=assets/gifs/ballmer.gif
