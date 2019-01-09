@@ -1,6 +1,5 @@
 # Waves + Current
-Waves don't die. Let me crash here for the moment
-- Mr. West
+@size[50%](Waves don't die. Let me crash here for the moment)
 
 ---?image=assets/gifs/charlie.gif
 ---?image=assets/gifs/ballmer.gif
