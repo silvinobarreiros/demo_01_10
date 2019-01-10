@@ -21,6 +21,9 @@
   }
 }
 
+---
+
+```json
 {
   "id": "0dfdb3d3-0ce2-47f4-899e-9a01cd52c9a1",
   "data": {
@@ -35,7 +38,7 @@
   "publishedAt": "2018-12-20T01:51:45.539Z"
 }
 ```
-@[2, 27](`eventType` + `type` same same)
+@[2, 27](`eventType` + `type` same)
 
 ---
 
