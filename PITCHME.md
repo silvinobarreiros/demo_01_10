@@ -19,7 +19,7 @@
 }
 ```
 @[3](`type` of event we're sending)
-@[5-11](`data` the important stuff)
+@[5-11](the important stuff)
 
 ---
 
