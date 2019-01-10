@@ -6,20 +6,7 @@
 @snap[east]
 ```json
 {
-  "eventType": "checkingBalanceUpdate",
-  "brazeType": "attribute",
-  "brazeConfig": {
-    "paths": [
-      {
-        "key": "bank_debit_balance",
-        "path": "data/availableBalance"
-      },
-      {
-        "key": "bank_debit_balance_as_of_date_time",
-        "path": "data/availableBalanceAsOfDateTime"
-      }
-    ]
-  }
+  "eventType": "checkingBalanceUpdate"
 }
 ```
 @snapend
@@ -27,20 +14,12 @@
 @snap[west]
 ```json
 {
-  "id": "0dfdb3d3-0ce2-47f4-899e-9a01cd52c9a1",
-  "data": {
-    "accountUUID": "988b9b4d-6f6e-45a8-bcf4-7fc1192603a0",
-    "ledgerBalance": 129.9,
-    "availableBalance": 37.36,
-    "ledgerBalanceAsOfDateTime": "2018-12-18T03:00:00.000Z",
-    "availableBalanceAsOfDateTime": "2018-12-20T01:51:43.713Z"
-  },
-  "type": "checkingBalanceUpdate",
-  "userUUID": "98d325d5-307f-433f-be33-65f05d04783e",
-  "publishedAt": "2018-12-20T01:51:45.539Z"
+  "id": "0dfdb3d3-0ce2-47f4-899e-9a01cd52c9a1"
 }
 ```
 @snapend
+
+---
 
 ---?image=assets/gifs/charlie.gif
 ---?image=assets/gifs/ballmer.gif
