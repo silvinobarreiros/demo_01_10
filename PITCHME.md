@@ -5,6 +5,26 @@
 
 ```json
 {
+  "id": "0dfdb3d3-0ce2-47f4-899e-9a01cd52c9a1",
+  "type": "checkingBalanceUpdate",
+  "userUUID": "98d325d5-307f-433f-be33-65f05d04783e",
+  "data": {
+    "accountUUID": "988b9b4d-6f6e-45a8-bcf4-7fc1192603a0",
+    "ledgerBalance": 129.9,
+    "availableBalance": 37.36,
+    "ledgerBalanceAsOfDateTime": "2018-12-18T03:00:00.000Z",
+    "availableBalanceAsOfDateTime": "2018-12-20T01:51:43.713Z"
+  },
+  "publishedAt": "2018-12-20T01:51:45.539Z"
+}
+```
+@[2, 27](`type` of event we're sending)
+@[5-11](`data` the important stuff)
+
+---
+
+```json
+{
   "eventType": "checkingBalanceUpdate",
   "brazeType": "attribute",
   "brazeConfig": {
@@ -24,25 +44,6 @@
 @[2](`eventType` stash event we care about)
 @[3](`brazeType` braze thing we want to send)
 @[5-14](GET 👏🏼 THAT 👏🏼 DATA 👏🏼)
-
----
-
-```json
-{
-  "id": "0dfdb3d3-0ce2-47f4-899e-9a01cd52c9a1",
-  "data": {
-    "accountUUID": "988b9b4d-6f6e-45a8-bcf4-7fc1192603a0",
-    "ledgerBalance": 129.9,
-    "availableBalance": 37.36,
-    "ledgerBalanceAsOfDateTime": "2018-12-18T03:00:00.000Z",
-    "availableBalanceAsOfDateTime": "2018-12-20T01:51:43.713Z"
-  },
-  "type": "checkingBalanceUpdate",
-  "userUUID": "98d325d5-307f-433f-be33-65f05d04783e",
-  "publishedAt": "2018-12-20T01:51:45.539Z"
-}
-```
-@[2, 27](`eventType` + `type` same)
 
 ---
 
