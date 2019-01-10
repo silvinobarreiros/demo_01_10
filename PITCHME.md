@@ -18,7 +18,7 @@
   "publishedAt": "2018-12-20T01:51:45.539Z"
 }
 ```
-@[2, 27](`type` of event we're sending)
+@[3](`type` of event we're sending)
 @[5-11](`data` the important stuff)
 
 ---
