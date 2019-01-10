@@ -53,11 +53,11 @@
 ---
 
 @snap[west]
-<img src="assets/example/full_event.png" style="height: 40%; width: 40%; border: 0; box-shadow: none !important; background: none !important;"/>
+<img src="assets/example/full_event.png" style="height: 60%; width: 60%; border: 0; box-shadow: none !important; background: none !important;"/>
 @snapend
 
 @snap[east]
-<img src="assets/example/full_converter.png" style="height: 40%; width: 40%; border: 0; box-shadow: none !important; background: none !important;"/>
+<img src="assets/example/full_converter.png" style="height: 60%; width: 60%; border: 0; box-shadow: none !important; background: none !important;"/>
 @snapend
 ---
 
