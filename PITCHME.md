@@ -53,14 +53,12 @@
 
 ---
 
-@snap[west]
-```json
-{
-  "id": "0dfdb3d3-0ce2-47f4-899e-9a01cd52c9a1"
-}
-```
-@snapend
+## Darion Miller or John Denver?
+<img src="assets/jd_darion/jd_darion.jpg" style="height: 50%; width: 50%; border: 0; box-shadow: none !important; background: none !important;"/>
+---
 
+## DM or JD?
+<img src="assets/jd_darion/darion_1.png" style="height: 40%; width: 40%; border: 0; box-shadow: none !important; background: none !important;"/>
 ---
 
 ---?image=assets/gifs/charlie.gif
