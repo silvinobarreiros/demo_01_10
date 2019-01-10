@@ -3,13 +3,12 @@
 
 ---
 
-@snap[east]
 ```json
 {
   "eventType": "checkingBalanceUpdate"
 }
 ```
-@snapend
+---
 
 @snap[west]
 ```json
