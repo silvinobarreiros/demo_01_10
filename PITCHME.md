@@ -5,7 +5,20 @@
 
 ```json
 {
-  "eventType": "checkingBalanceUpdate"
+  "eventType": "checkingBalanceUpdate",
+  "brazeType": "attribute",
+  "brazeConfig": {
+    "paths": [
+      {
+        "key": "bank_debit_balance",
+        "path": "data/availableBalance"
+      },
+      {
+        "key": "bank_debit_balance_as_of_date_time",
+        "path": "data/availableBalanceAsOfDateTime"
+      }
+    ]
+  }
 }
 ```
 ---
