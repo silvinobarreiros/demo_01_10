@@ -46,6 +46,8 @@
 @[2](`eventType` stash event we care about)
 @[3](`brazeType` braze thing we want to send)
 @[5-14](GET 👏🏼 THAT 👏🏼 DATA 👏🏼)
+@[6-9]
+@[10-13]
 
 ---
 
